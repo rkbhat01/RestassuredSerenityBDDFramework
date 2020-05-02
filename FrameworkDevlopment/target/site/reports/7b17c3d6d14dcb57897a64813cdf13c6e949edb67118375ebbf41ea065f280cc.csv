@@ -1,3 +1,3 @@
 "Story","Title","Result","Date","Stability","Duration (s)"
-"Authentication test","This test validate login authentication with valid entries","SUCCESS","2020-05-02T18:01:19.577+05:30","0.0","7.46"
-"Authentication test","This test verify valid error message for invalid credentials","SUCCESS","2020-05-02T18:01:27.440+05:30","0.0","1.07"
+"Authentication test","This test validate login authentication with valid entries","SUCCESS","2020-05-02T18:31:02.378+05:30","0.0","7.65"
+"Authentication test","This test verify valid error message for invalid credentials","SUCCESS","2020-05-02T18:31:10.418+05:30","0.0","1.01"

@@ -1,3 +1,3 @@
 "Story","Title","Result","Date","Stability","Duration (s)"
-"Customer register test","This test verify valid error message for POST request with existing user details","SUCCESS","2020-05-02T18:01:31.913+05:30","0.0","0.9"
-"Customer register test","This test will register customer","SUCCESS","2020-05-02T18:01:30.404+05:30","0.0","1.5"
+"Customer register test","This test verify valid error message for POST request with existing user details","SUCCESS","2020-05-02T18:31:16.921+05:30","0.0","0.88"
+"Customer register test","This test will register customer","SUCCESS","2020-05-02T18:31:14.920+05:30","0.0","2.0"
